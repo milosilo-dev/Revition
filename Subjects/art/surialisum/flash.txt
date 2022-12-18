@@ -1,0 +1,3 @@
+:surialisum:test q:test a
+:idk:test:test
+:idn:ValueError: Client secrets must be for a web or installed app.:test n
